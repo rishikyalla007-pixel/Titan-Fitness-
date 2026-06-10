@@ -1,0 +1,6 @@
+{
+  "name": "Titan Fitness",
+  "description": "An elite training facility with state-of-the-art equipment, personalized diet plans, expert trainers, and premium memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
